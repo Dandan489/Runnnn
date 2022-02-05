@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Trap
+  - Water
+  - Chest
+  - Coin
+  - goba
+  - flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 1655661093
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enviro
+    uniqueID: 931790035
+    locked: 0
+  - name: PLAYER
+    uniqueID: 2861370225
+    locked: 0
+  - name: envirof
+    uniqueID: 921548505
+    locked: 0
+  - name: Plat
+    uniqueID: 1096575673
+    locked: 0
+  - name: Obj
+    uniqueID: 2549583213
+    locked: 0
